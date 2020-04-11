@@ -1,0 +1,54 @@
+[
+  {
+    "Id": "1",
+    "Maker": "@jenlooper",
+    "img": "https://www.enterprise.cam.ac.uk/wp-content/uploads/2013/08/maize-field-banner.jpg",
+    "Title": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
+    "Description": "This project is a good learning project to get comfortable with soldering and programming an Arduino."
+  },
+  {
+    "Id": "2",
+    "Maker": "jenlooper",
+    "img": "https://www.enterprise.cam.ac.uk/wp-content/uploads/2013/08/maize-field-banner.jpg",
+    "Title": "A beautiful switch-on book light",
+    "Description": "Use craft items you have around the house, plus two LEDs and a LilyPad battery holder, to create a useful book light for reading in the dark."
+  },
+  {
+    "Id": "3",
+    "Maker": "@jenlooper",
+    "img": "https://www.enterprise.cam.ac.uk/wp-content/uploads/2013/08/maize-field-banner.jpg",
+    "Title": "Bling your Laptop with an Internet-Connected Light Show",
+    "Description": "Create a web-connected light-strip API controllable from your website, using the Particle.io."
+  },
+  {
+    "Id": "4",
+    "Maker": "sailorhg",
+    "img": "https://user-images.githubusercontent.com/41929050/61567054-13938600-aa33-11e9-9163-eec98e239b7a.png",
+    "Title": "Bubblesort Visualization",
+    "Description": "Visualization of sailor scouts sorted by bubblesort algorithm by their planet\u0027s distance from the sun"
+  },
+  {
+    "Id": "5",
+    "Maker": "sailorhg",
+    "img": "https://user-images.githubusercontent.com/41929050/61567055-142c1c80-aa33-11e9-96ff-9fbac6413625.png",
+    "Title": "Light-up Corsage",
+    "Description": "Light-up corsage I made with my summer intern."
+
+  },
+  {
+    "Id": "6",
+    "Maker": "sailorhg",
+    "img": "https://user-images.githubusercontent.com/41929050/61567056-142c1c80-aa33-11e9-8682-10065d338145.png",
+    "Title": "Pastel hardware kit",
+    "Description": "Pastel hardware kits complete with custom manufactured pastel alligator clips."
+
+  },
+  {
+    "Id": "7",
+    "Maker": "sailorhg",
+    "img": "https://user-images.githubusercontent.com/41929050/61567052-13938600-aa33-11e9-9a88-cd842073ba44.jpg",
+    "Title": "Heart-shaped LED",
+    "Description": "custom molded heart shaped LED with sprinkles."
+
+  }
+ ]
